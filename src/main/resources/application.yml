@@ -5,3 +5,4 @@ spring:
     active: dev
   main:
     banner-mode: "off"
+management.endpoint.restart.enabled: true
