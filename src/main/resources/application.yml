@@ -1,0 +1,7 @@
+spring:
+  application.name: configmap-demo
+  cloud.kubernetes.reload.enabled: true
+  profiles:
+    active: dev
+  main:
+    banner-mode: "off"
